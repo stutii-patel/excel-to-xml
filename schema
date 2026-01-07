@@ -1,0 +1,23 @@
+IBK:Parameter.name:DiameterOutside = Außendurchmesser [mm]
+IBK:Parameter.name:ThicknessWall = Wandstärke [mm]
+IBK:Parameter.name:RoughnessWall = Rohrrauigkeit [mm]
+IBK:Parameter.name:DensityWall = Dichte Rohrwand [W/mK] 960
+IBK:Parameter.name:HeatCapacityWall = Wärmekapazität Rohrwand [W/mK] 1900
+IBK:Parameter.name:ThermalConductivityWall = Wärmeleitfähigkeit Rohrwand [W/mK] 0.4
+IBK:Parameter.name:ThicknessInsulation = Dicke der Isolierung [mm]
+IBK:Parameter.name:ThermalConductivityInsulation = Wärmeleitfähigkeit der Isolierung [mm]
+IBK:Parameter.name:ThicknessOuterLayer = Dicke äußere Schutzschicht [mm]
+IBK:Parameter.name:FixedUValue = U-Wert [W/mK]
+IBK:Parameter.name:FixedTotalOuterDiameter = Außendurchmesser gesamt mit Isolierung und Schutzschicht [mm]
+IBK:Parameter.name:PipeSpacing = Abstand Vor- und Rücklauf [mm]
+
+NetworkPipe.categoryName = Material de | Material en
+NetworkPipe.manufacturerName = Isoplus
+NetworkPipe.productName = Produkt
+
+NominalPressure = PN [bar]
+FixedUValueGiven = true
+PipeLayout = Einzel- oder Doppelrohr
+PipeMaterialStandard = 
+
+
