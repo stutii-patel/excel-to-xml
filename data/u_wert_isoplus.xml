@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NetworkPipes>
+	<NetworkPipe id="1100680" color="#30123b" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="isoflex - 20" manufacturerName="ISOPLUS">
+		<IBK:Parameter name="DiameterOutside" unit="mm">20</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="ThermalConductivityWall" unit="W/mK">50</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7900</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0924</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">75</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">100</IBK:Parameter>
+		<NominalPressure>25</NominalPressure>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<PipeLayout>SinglePipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100681" color="#28bceb" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="isoflex - 28" manufacturerName="ISOPLUS">
+		<IBK:Parameter name="DiameterOutside" unit="mm">28</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="ThermalConductivityWall" unit="W/mK">50</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7900</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.1208</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">75</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">100</IBK:Parameter>
+		<NominalPressure>25</NominalPressure>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<PipeLayout>SinglePipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100682" color="#a4fc3c" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="isoflex - 28v" manufacturerName="ISOPLUS">
+		<IBK:Parameter name="DiameterOutside" unit="mm">28</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="ThermalConductivityWall" unit="W/mK">50</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7900</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.1036</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">90</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">100</IBK:Parameter>
+		<NominalPressure>25</NominalPressure>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<PipeLayout>SinglePipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100683" color="#fb7e21" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="isoflex - 28+28" manufacturerName="ISOPLUS">
+		<IBK:Parameter name="DiameterOutside" unit="mm">28</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="ThermalConductivityWall" unit="W/mK">50</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7900</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.1561</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">110</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">10</IBK:Parameter>
+		<NominalPressure>25</NominalPressure>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+</NetworkPipes>
