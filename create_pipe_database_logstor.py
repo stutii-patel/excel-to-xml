@@ -82,20 +82,22 @@ for file_info in input_files:
 
     for index, row in df.iterrows():
         da = row[diam_col]
-        s = row['Wandstärke [mm]']
+        s = row.get('Wandstärke [mm]') 
+        
         roughness = row.get('Rohrrauigkeit [mm]')
         product_name = str(row.get('Produkt', ''))
         manufacturer_raw = str(row.get('Hersteller', 'LOGSTOR'))
         manufacturer = manufacturer_raw.split('-')[0].upper()
-        density = row.get('Dichte Rohrwand [kg/m3]')
+        
+        # density/cp might be in columns or need defaults
+        density = row.get('Dichte Rohrwand [W/mK]') # Note: Excel header has wrong unit but this is the key
         cp = row.get('Wärmekapazität Rohrwand [W/mK]')
-
-        # Material detection (Force Steel for isoflex)
+        
+        # Material detection
         material_wall_val = str(row.get('Material Rohrwand', '')).lower()
         is_plastic = "kunststoff" in material_wall_val
         if "isoflex" in product_name.lower():
             is_plastic = False
-
 
         if is_plastic:
             lambda_wall = 0.4
@@ -105,6 +107,10 @@ for file_info in input_files:
             lambda_wall = 50
             material_standard = "EnStandard"
             cat_name = "DE: Stahl KMR | EN: Steel bonded pipe"
+
+        # Use row values if present, else default
+        # density = density_val if pd.notna(density_val) else density_default
+        # cp = cp_val if pd.notna(cp_val) else cp_default
 
         total_outer_diameter = row.get('Außendurchmesser gesamt mit Isolierung und Schutzschicht [mm]')
         layout_type = str(row.get('Einzel- oder Doppelrohr', ''))
@@ -138,13 +144,21 @@ for file_info in input_files:
         # add_ibk_param(pipe, "ThermalConductivityWall", lambda_wall, "W/mK")
         add_ibk_param(pipe, "HeatCapacityWall", cp, "J/kgK")
         add_ibk_param(pipe, "DensityWall", density, "kg/m3")
-        add_ibk_param(pipe, "FixedUValue", UValue, "W/mK")
-        add_ibk_param(pipe, "FixedTotalOuterDiameter", total_outer_diameter, "mm")
-        add_ibk_param(pipe, "PipeSpacing", spacing, "mm")
+        has_u_value = pd.notna(UValue)
+        
+        if has_u_value:
+            add_ibk_param(pipe, "FixedUValue", UValue, "W/mK")
+            add_ibk_param(pipe, "FixedTotalOuterDiameter", total_outer_diameter, "mm")
+            add_ibk_param(pipe, "PipeSpacing", spacing, "mm")
+            # Skip Insulation params (not currently added anyway)
+            ET.SubElement(pipe, "FixedUValueGiven").text = "true"
+        else:
+            # Skip FixedUValue, FixedTotalOuterDiameter, PipeSpacing
+            # Potentially add Insulation params here if they were available, but they are not in the snippet.
+            ET.SubElement(pipe, "FixedUValueGiven").text = "false"
 
         if pd.notna(pn_value):
             ET.SubElement(pipe, "NominalPressure").text = fmt_val(pn_value)
-        ET.SubElement(pipe, "FixedUValueGiven").text = "true"
         
         if 'Einzelrohr' in layout_type:
             ET.SubElement(pipe, "PipeLayout").text = "SinglePipe"
