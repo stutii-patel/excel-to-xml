@@ -7,11 +7,22 @@ import re
 
 # File paths
 input_files = [
-    {'path': 'data/VICUS_DB_Template_Rohre_isoplus_12_2025_Isoflex.xlsx', 'out': 'data/u_wert_isoplus.xml'},
-    {'path': 'data/VICUS_DB_LOGSTOR_Rohre.xlsx', 'out': 'data/u_wert_logstor.xml'}
+    {'path': 'data/VICUS_DB_Template_Rohre_isoplus_12_2025_Isoflex.xlsx', 'out': 'data/u_wert_isoplus.xml'}
 ]
-db_xml_file = 'data/db_pipes.xml'
-updated_db_file = 'data/db_pipes_updated.xml'
+db_xml_file = 'data/db_pipes_org.xml'
+updated_db_file = 'data/db_pipes_original.xml'
+
+# Helper to format numeric values to match original XML (no .0 for integers)
+def fmt_val(val):
+    if pd.isna(val):
+        return ""
+    try:
+        f_val = float(val)
+        if f_val.is_integer():
+            return str(int(f_val))
+        return str(f_val)
+    except:
+        return str(val)
 
 # Function to get the last ID from the existing XML (robustly)
 def get_last_id(xml_path):
@@ -40,9 +51,10 @@ for file_info in input_files:
     
     print(f"Processing {excel_path}...")
     
-    # Load the Excel file
+    # Load the Excel file and filter for "isoflex"
     df = pd.read_excel(excel_path, sheet_name='Einzel- o Doppelrohr mit U-Wert', skiprows=1)
-    df = df.dropna(subset=['Produkt', 'Außendurchmesser [mm]'], how='all').reset_index(drop=True)
+    df = df.dropna(subset=['Produkt', 'Außendurchmesser [mm]'], how='all')
+    df = df[df['Produkt'].str.contains('isoflex', case=False, na=False)].reset_index(drop=True)
     
     # Color mapping setup
     cmap = pl.get_cmap('turbo')
@@ -77,9 +89,12 @@ for file_info in input_files:
         manufacturer_raw = str(row.get('Hersteller', 'ISOPLUS'))
         manufacturer = manufacturer_raw.split('-')[0].upper()
         
-        # Material detection
+        # Material detection (Force Steel for isoflex)
         material_wall_val = str(row.get('Material Rohrwand', '')).lower()
         is_plastic = "kunststoff" in material_wall_val
+        if "isoflex" in product_name.lower():
+            is_plastic = False
+
         if is_plastic:
             density, cp, lambda_wall = 960, 1900, 0.4
             material_standard = "PlasticPipe"
@@ -87,7 +102,7 @@ for file_info in input_files:
         else:
             density, cp, lambda_wall = 7900, 480, 50
             material_standard = "EnStandard"
-            cat_name = "DE: Stahl | EN: Steel"
+            cat_name = "DE: Stahl KMR | EN: Steel bonded pipe"
 
         total_outer_diameter = row.get('Außendurchmesser gesamt mit Isolierung und Schutzschicht [mm]')
         layout_type = str(row.get('Einzel- oder Doppelrohr', ''))
@@ -103,29 +118,30 @@ for file_info in input_files:
 
         # Increment ID across all files
         current_id_counter += 1
-        pipe = ET.Element("NetworkPipe", id=str(current_id_counter), categoryName=cat_name, color=color)
-        pipe.set("manufacturerName", manufacturer)
+        # Order: id, color, categoryName, productName, manufacturerName
+        pipe = ET.Element("NetworkPipe", id=str(current_id_counter), color=color, categoryName=cat_name)
         pipe.set("productName", product_name)
+        pipe.set("manufacturerName", manufacturer)
 
         def add_ibk_param(parent, param_name, value, unit):
             if pd.notna(value):
                 node = ET.SubElement(parent, "IBK:Parameter")
                 node.set("name", param_name)
                 node.set("unit", unit)
-                node.text = str(value)
+                node.text = fmt_val(value)
 
         add_ibk_param(pipe, "DiameterOutside", da, "mm")
         add_ibk_param(pipe, "ThicknessWall", s, "mm")
         add_ibk_param(pipe, "RoughnessWall", roughness, "mm")
-        add_ibk_param(pipe, "DensityWall", density, "kg/m3")
-        add_ibk_param(pipe, "HeatCapacityWall", cp, "J/kgK")
         add_ibk_param(pipe, "ThermalConductivityWall", lambda_wall, "W/mK")
+        add_ibk_param(pipe, "HeatCapacityWall", cp, "J/kgK")
+        add_ibk_param(pipe, "DensityWall", density, "kg/m3")
         add_ibk_param(pipe, "FixedUValue", UValue, "W/mK")
         add_ibk_param(pipe, "FixedTotalOuterDiameter", total_outer_diameter, "mm")
         add_ibk_param(pipe, "PipeSpacing", spacing, "mm")
 
         if pd.notna(pn_value):
-            ET.SubElement(pipe, "NominalPressure").text = str(pn_value)
+            ET.SubElement(pipe, "NominalPressure").text = fmt_val(pn_value)
         ET.SubElement(pipe, "FixedUValueGiven").text = "true"
         
         if 'Einzelrohr' in layout_type:
@@ -139,12 +155,20 @@ for file_info in input_files:
     def prettify_str(element, level=1):
         indent = "\t" * level
         sub_indent = "\t" * (level + 1)
-        attrs = " ".join([f'{k}="{v}"' for k, v in element.attrib.items()])
+        # Use list of keys for attribute ordering
+        attr_keys = ['id', 'color', 'categoryName', 'productName', 'manufacturerName']
+        attrs_list = []
+        for k in attr_keys:
+            if k in element.attrib:
+                attrs_list.append(f'{k}="{element.attrib[k]}"')
+        attrs = " ".join(attrs_list)
         xml_str = f"{indent}<NetworkPipe {attrs}>\n"
         for sub in element:
             if sub.tag == "IBK:Parameter":
-                sub_attrs = " ".join([f'{k}="{v}"' for k, v in sub.attrib.items()])
-                xml_str += f"{sub_indent}<IBK:Parameter {sub_attrs}>{sub.text}</IBK:Parameter>\n"
+                # Ensure name then unit
+                p_name = sub.attrib.get('name', '')
+                p_unit = sub.attrib.get('unit', '')
+                xml_str += f'{sub_indent}<IBK:Parameter name="{p_name}" unit="{p_unit}">{sub.text}</IBK:Parameter>\n'
             else:
                 xml_str += f"{sub_indent}<{sub.tag}>{sub.text}</{sub.tag}>\n"
         xml_str += f"{indent}</NetworkPipe>\n"
@@ -163,6 +187,10 @@ for file_info in input_files:
     
     # Accumulate for global merge
     all_new_pipes_chunk += file_pipes_chunk
+
+# Total entries added count
+total_added = len(re.findall(r'<NetworkPipe\b', all_new_pipes_chunk))
+print(f"\nTotal entries added: {total_added}")
 
 # Final Merge and Summary
 summary = []
