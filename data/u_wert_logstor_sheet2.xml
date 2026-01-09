@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NetworkPipes>
+	<NetworkPipe id="1100684" color="#30123b" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.103873622885628</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">128.3</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100685" color="#4454c3" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">33.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.111388577699255</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">144.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100686" color="#448ffe" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">42.4</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.120555127572852</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">164.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100687" color="#20c7df" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">48.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.145750477292121</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">164.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100688" color="#2aefa1" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">60.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.140104426891871</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">202.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100689" color="#7dff56" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">76.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.166532908755801</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">228.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100690" color="#c1f334" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">88.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.184608484452223</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">256.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100691" color="#f1cb3a" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">114.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.189510268556259</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">316.9</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100692" color="#fe9029" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">139.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.165973415578905</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">405</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">30</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100693" color="#ea4e0d" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">168.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.20471095290157</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">455</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">40</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100694" color="#be2102" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">219.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.226179308238798</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">567.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">45</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100695" color="#30123b" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0894864971300578</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">144.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100696" color="#4454c3" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">33.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0939959710920059</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">164.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100697" color="#448ffe" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">42.4</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.102630298074018</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">183</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100698" color="#20c7df" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">48.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.119678679333749</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">183</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100699" color="#2aefa1" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">60.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.114394669565238</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">228.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100700" color="#7dff56" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">76.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.131285430121917</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">256.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100701" color="#c1f334" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">88.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.144863900576959</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">284.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100702" color="#f1cb3a" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">114.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.14076863040013</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">360</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100703" color="#fe9029" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">139.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.130502605951278</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">455</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">30</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100704" color="#ea4e0d" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">168.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.155021997135821</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">505.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">40</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100705" color="#be2102" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">219.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.161708649906323</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">638</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">45</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100706" color="#30123b" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0790478819454062</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">164.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100707" color="#4454c3" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">33.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0838706586038047</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">183</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100708" color="#448ffe" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">42.4</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0916956401990298</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">202.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100709" color="#20c7df" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">48.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.104763181952999</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">202.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100710" color="#2aefa1" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">60.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0986878850154598</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">256.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100711" color="#7dff56" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">76.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.112487019472512</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">284.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100712" color="#c1f334" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">88.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.120142736373981</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">316.9</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100713" color="#f1cb3a" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">114.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.115789586505537</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">405</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100714" color="#fe9029" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">139.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.111002496591013</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">505.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">30</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100715" color="#ea4e0d" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">168.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.12471044078772</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">567.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">40</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100716" color="#be2102" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Taditional" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">219.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.128067617580503</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">718.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">45</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100717" color="#30123b" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0813832962958594</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">128.3</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100718" color="#466be3" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">33.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0882727705119078</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">144.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100719" color="#28bceb" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">42.4</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0965813605165683</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">164.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100720" color="#32f298" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">48.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.116527626438323</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">164.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100721" color="#a4fc3c" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">60.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.114197089648034</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">202.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100722" color="#eecf3a" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">76.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.136968994096044</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">228.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100723" color="#fb7e21" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">88.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.153317103506671</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">256.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100724" color="#d02f05" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">114.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.160241413574924</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">316.9</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100725" color="#30123b" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0710568390096364</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">144.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100726" color="#4776ee" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">33.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0753848055057143</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">164.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100727" color="#1bd0d5" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">42.4</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0831833257198108</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">183</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100728" color="#61fc6c" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">48.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0968735825311461</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">183</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100729" color="#d2e935" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">60.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.094327175809727</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">228.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100730" color="#fe9b2d" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">76.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.109120031080273</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">256.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100731" color="#da3907" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">88.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.121327770004005</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">284.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100732" color="#30123b" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0626883298293004</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">164.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100733" color="#4776ee" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">33.7</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0672596659340851</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">183</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100734" color="#1bd0d5" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">42.4</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0741122731132339</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">202.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100735" color="#61fc6c" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">48.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0845052817173214</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">202.5</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">19</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100736" color="#d2e935" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">60.3</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0812119909237643</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">256.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100737" color="#fe9b2d" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">76.1</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0932596984518836</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">284.1</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">20</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100738" color="#da3907" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 3 Conti" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">88.9</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.1</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">480</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">7850</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.100525577379473</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">316.9</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">25</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>25</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100739" color="#30123b" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 1 PertFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">63</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">8.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2350</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">935</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.140842004162645</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">174.3</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100740" color="#30123b" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PertFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">25</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2350</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">935</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0678122304740301</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">122.6</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100741" color="#28bceb" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PertFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">32</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4.4</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2350</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">935</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0873821704625701</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">122.6</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100742" color="#a4fc3c" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PertFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">40</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">5.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2350</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">935</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0990195090308768</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">137.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100743" color="#fb7e21" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PertFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">50</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">6.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2350</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">935</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0937877285855176</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">174.3</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100744" color="#30123b" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 1 AluFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">1250</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">1700</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0817298958716459</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">107.7</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100745" color="#30123b" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 AluFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">20</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">1250</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">1700</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0639728226480391</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">107.7</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100746" color="#1ae4b6" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 AluFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">1250</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">1700</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0702439720610398</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">122.6</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100747" color="#faba39" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 AluFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">32</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">1250</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">1700</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0873821704625701</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">122.6</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100748" color="#30123b" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 3 AluFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">20</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">1250</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">1700</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0569085208443482</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">122.6</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100749" color="#1ae4b6" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 3 AluFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">26</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">1250</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">1700</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0626889996720165</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">137.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100750" color="#faba39" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 3 AluFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">32</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">1250</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">1700</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0756693724177981</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">137.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>10</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100751" color="#30123b" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 1 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">25</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0720277290034299</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">107.7</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100752" color="#3e9bfe" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 1 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">32</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0987360739965241</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">107.7</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100753" color="#46f884" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 1 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">40</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.7</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.112654494194629</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">122.6</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100754" color="#e1dd37" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 1 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">50</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.103633468044853</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">156.2</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100755" color="#f05b12" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 1 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">63</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">5.8</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.129888356678897</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">174.3</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100756" color="#30123b" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">20</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0587260386029888</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">107.7</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100757" color="#3e9bfe" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">25</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.5</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.062256728827838</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">122.6</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100758" color="#46f884" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">32</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">2.9</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0803398055400777</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">122.6</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100759" color="#e1dd37" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">40</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">3.7</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0910969246873588</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">137.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100760" color="#f05b12" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 2 PexFlextra" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">50</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">4.6</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">2300</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">940</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0862097581586911</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">174.3</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>6</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100761" color="#30123b" categoryName="DE: PE isoliert | EN: PE insulated" productName="TwinPipe Series 1 CuFlex" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">18</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">1</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">386</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">8960</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0692241249821893</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">93.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>16</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>PlasticPipe</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100762" color="#1ae4b6" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 CuFlex" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">22</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">1</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">386</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">8960</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0842945123972145</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">93.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>16</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100763" color="#faba39" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 1 CuFlex" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">28</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">1.2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">386</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">8960</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0860416711106206</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">112.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>16</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100764" color="#30123b" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 CuFlex" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">18</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">1</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">386</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">8960</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0577795108645369</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">112.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>16</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100765" color="#1ae4b6" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 CuFlex" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">22</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">1</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">386</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">8960</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0675602992627547</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">112.4</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>16</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+	<NetworkPipe id="1100766" color="#faba39" categoryName="DE: Stahl KMR | EN: Steel bonded pipe" productName="TwinPipe Series 2 CuFlex" manufacturerName="LOGSTOR">
+		<IBK:Parameter name="DiameterOutside" unit="mm">28</IBK:Parameter>
+		<IBK:Parameter name="ThicknessWall" unit="mm">1.2</IBK:Parameter>
+		<IBK:Parameter name="RoughnessWall" unit="mm">0.01</IBK:Parameter>
+		<IBK:Parameter name="HeatCapacityWall" unit="J/kgK">386</IBK:Parameter>
+		<IBK:Parameter name="DensityWall" unit="kg/m3">8960</IBK:Parameter>
+		<IBK:Parameter name="FixedUValue" unit="W/mK">0.0729200564831816</IBK:Parameter>
+		<IBK:Parameter name="FixedTotalOuterDiameter" unit="mm">128.3</IBK:Parameter>
+		<IBK:Parameter name="PipeSpacing" unit="mm">12</IBK:Parameter>
+		<FixedUValueGiven>true</FixedUValueGiven>
+		<NominalPressure>16</NominalPressure>
+		<PipeLayout>TwinPipe</PipeLayout>
+		<PipeMaterialStandard>EnStandard</PipeMaterialStandard>
+	</NetworkPipe>
+</NetworkPipes>
